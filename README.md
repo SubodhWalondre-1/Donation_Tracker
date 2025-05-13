@@ -13,7 +13,7 @@ A lightweight web app for tracking donations with categorization and reporting.
 
 1. **Clone repo**  
    ```bash
-   git clone https://github.com/SubodhWalondre-1/Donation_Tracker.git
+   gh repo clone SubodhWalondre-1/Donation_Tracker
 
 ## Open in browser
 Simply open index.html - no server required!
